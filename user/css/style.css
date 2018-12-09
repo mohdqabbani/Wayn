@@ -1,0 +1,19 @@
+body{
+    background-color: #f9f9f9;
+}
+
+.container-fluid .nav-header{
+    background-color: buttonface;
+    font-family: serif;
+    text-transform: lowercase;
+    
+}
+.container-fluid .nav-header span{
+    text-transform: uppercase;
+}
+.container-fluid .row article{
+    background-color: blueviolet;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+}
